@@ -2,7 +2,7 @@
 This portfolio provides an overview of Data Analyses and Machine Learning exploration projects. 
 
 # Example notebooks
-- [Exploratory data analysis](https://github.com/Dutchmick/Home_Credit/blob/master/notebooks/Homecred%20-%20Exploratory%20analysis.ipynb)
+- [Exploratory data analysis](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Exploratory%20analysis.ipynb)
 - [Data cleaning](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Data%20cleaning.ipynb)
 - [Ensemble modelling](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20ML%20ensemble.ipynb)
 
