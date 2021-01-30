@@ -1,5 +1,6 @@
 # Michiel's portfolio
-This portfolio provides an overview of Data Analyses and Machine Learning exploration projects. 
+One this page I will provide an overview of my Analytics and Data Science related projects. I currently only have one project worth opening up to the public, but more projects will be added.
+
 
 # Example notebooks
 - [Exploratory data analysis](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Exploratory%20analysis.ipynb)
