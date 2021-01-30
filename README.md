@@ -1,7 +1,6 @@
 # Michiel's portfolio
 One this page I will provide an overview of my Analytics and Data Science related projects. I currently only have one project worth opening up to the public, but more projects will be added.
 
-
 # Example notebooks
 - [Exploratory data analysis](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Exploratory%20analysis.ipynb)
 - [Data cleaning](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Data%20cleaning.ipynb)
@@ -14,6 +13,6 @@ Case study of a prediction model that can be used to evaluate loan repayment beh
 
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
