@@ -4,7 +4,7 @@ One this page I will provide an overview of my Analytics and Data Science relate
 
 
 # Machine learning projects
-**[Loan repayment behaviour prediction](https://github.com/Dutchmick/loan_repayment_prediction)**<br/> *(In progress)*
+**[Loan repayment behaviour prediction](https://github.com/Dutchmick/loan_repayment_prediction)** *(In progress)* <br/>
 Case study of a prediction model that can be used to evaluate loan repayment behaviour of currently excluded customers of formal financial services. The [Kaggle Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk) was used for this project. Traditional metrics for credit scoring were excluded to create this model (e.g. credit card repayments, previous bank loans).
 
 ### I - Exploratory data analysis
