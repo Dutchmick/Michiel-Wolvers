@@ -16,14 +16,16 @@ Data cleaning and modelling which can quickly be deployed and used to develop a 
 - [Data cleaning notebook](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Data%20cleaning%20-%20Basic.ipynb)
 - [Modelling notebook](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20ML%20modelling%20-%20Basic.ipynb)
 
+![](/Images/ROC_graph_basic.png)
+
+
 ### III - Advanced data cleaning & modelling
 Showcase of more advanced techniques that can be applied to improve model performance. The notebook is meant to showcase some techniques, but may not necessarily apply to this project.
 - [Data cleaning notebook](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20Data%20cleaning%20-%20Advanced.ipynb)
 - [Modelling notebook](https://github.com/Dutchmick/loan_repayment_prediction/blob/master/notebooks/Homecred%20-%20ML%20modelling%20-%20Advanced.ipynb)
 
 
-![](/Images/ROC_graph.png)
-
+![](/Images/ROC_graph_advanced.png)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
