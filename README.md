@@ -10,7 +10,7 @@ This objective of this project is to speed up my job search by creating a script
 - [Notebook](https://github.com/Dutchmick/social_job_webscraper/blob/master/notebooks/Webscraper.ipynb)
 <br/>
 
-# Machine learning projects
+# **Machine learning projects**
 **[Loan repayment behaviour prediction](https://github.com/Dutchmick/loan_repayment_prediction)** *(In progress)* <br/>
 Case study of a prediction model that can be used to evaluate loan repayment behaviour of currently excluded customers of formal financial services. The [Kaggle Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk) was used for this project. Traditional metrics for credit scoring were excluded to create this model (e.g. credit card repayments, previous bank loans).
 
