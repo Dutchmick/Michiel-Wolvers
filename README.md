@@ -3,8 +3,8 @@ One this page I will provide an overview of my Analytics and Data Science relate
 
 
 # **Social Data Scientist webscraper**  <br/>
-[Github repo](https://github.com/Dutchmick/social_job_webscraper)** *(In progress)*
-On LinkedIn and similar aggregator websites its difficult to find relevant social tech jobs and receive alerts. As a result, I need to visit multiple websites to find relevant jobs.
+[Github repo](https://github.com/Dutchmick/social_job_webscraper)** *(In progress)* <br/>
+On LinkedIn, Indeed and other similar aggregator websites its difficult to find relevant social tech jobs and receive alerts. As a result, I need to visit multiple websites to find relevant jobs.
 
 This objective of this project is to speed up my job search by creating a script that extracts relevant jobs from websites I currently use for my job search. The end result is a list of relevant jobs with a weblink for more details and possibility to apply.
 - [Notebook](https://github.com/Dutchmick/social_job_webscraper/blob/master/notebooks/Webscraper.ipynb)
