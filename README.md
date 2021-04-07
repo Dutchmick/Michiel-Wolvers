@@ -3,7 +3,7 @@ One this page I will provide an overview of my Analytics and Data Science relate
 
 
 # **Social Data Scientist webscraper**  <br/>
-[Github repo](https://github.com/Dutchmick/social_job_webscraper)** *(In progress)* <br/>
+[Github repo](https://github.com/Dutchmick/social_job_webscraper) *(In progress)* <br/>
 On LinkedIn, Indeed and other similar aggregator websites its difficult to find relevant social tech jobs and receive alerts. As a result, I need to visit multiple websites to find relevant jobs.
 
 This objective of this project is to speed up my job search by creating a script that extracts relevant jobs from websites I currently use for my job search. The end result is a list of relevant jobs with a weblink for more details and possibility to apply.
@@ -36,7 +36,7 @@ Showcase of more advanced techniques that can be applied to improve model perfor
 - *Missing data prediction* - Estimate missing values using machine learning algorithms
 - *Polynimonal feature creation* - Increase features by myltiplying features with each other
 - *Multi-collineairity* - Identify features which highly correlate and can distort the final model
-- *Random forest feature selection * - Use an algorithm to find the best features
+- *Random forest feature selection* - Use an algorithm to find the best features
 - *Algorithm selection* - Compare algorithms to select the best performing one
 - *Hyper Parameter Tuning* - Select the optimal combination parameters for best model performance
 
