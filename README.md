@@ -10,6 +10,12 @@ This objective of this project is to speed up my job search by creating a script
 - [Notebook](https://github.com/Dutchmick/social_job_webscraper/blob/master/notebooks/Webscraper.ipynb)
 <br/>
 
+# **Customer segmentation & clustering SMS notifications**  <br/>
+[Github repo](https://github.com/Dutchmick/Whereismytransport) <br/>
+WhereIsMyTransport helps people understand mobility in emerging-market megacities. We're trusted by industry leaders like Google, the World Bank, and WSP.
+For this excersise, WIMT wanted to create meaningful customer segmentations based on their customer's notification pattern over time. The next step would be to use the customer segmentations and cluster to monitor and increase message open rate through targeted campaigns.
+
+
 # **Machine learning projects**
 **[Loan repayment behaviour prediction](https://github.com/Dutchmick/loan_repayment_prediction)** *(In progress)* <br/>
 Case study of a prediction model that can be used to evaluate loan repayment behaviour of currently excluded customers of formal financial services. The [Kaggle Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk) was used for this project. Traditional metrics for credit scoring were excluded to create this model (e.g. credit card repayments, previous bank loans).
