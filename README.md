@@ -10,10 +10,10 @@ This objective of this project is to speed up my job search by creating a script
 - [Notebook](https://github.com/Dutchmick/social_job_webscraper/blob/master/notebooks/Webscraper.ipynb)
 <br/>
 
-# **Customer segmentation & clustering SMS notifications**  <br/>
+# **Customer segmentation & clustering**  <br/>
 [Github repo](https://github.com/Dutchmick/Whereismytransport) <br/>
 WhereIsMyTransport helps people understand mobility in emerging-market megacities. We're trusted by industry leaders like Google, the World Bank, and WSP.
-For this excersise, WIMT wanted to create meaningful customer segmentations based on their customer's notification pattern over time. The next step would be to use the customer segmentations and cluster to monitor and increase message open rate through targeted campaigns.
+For this excersise, WIMT wanted to create meaningful customer segmentations based on their customer's SMS notification behaviour over time. The next step would be to use the customer segmentations and cluster to monitor and increase message open rate through targeted campaigns.
 
 
 # **Machine learning projects**
