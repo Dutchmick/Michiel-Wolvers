@@ -1,5 +1,5 @@
 # Michiel's portfolio
-One this page I will provide an overview of my Analytics and Data Science related projects which I worked in during my personal time.
+One this page I will provide an overview of my Analytics and Data Science related projects which I worked on in my personal time.
 
 
 # **Social Data Scientist webscraper**  <br/>
