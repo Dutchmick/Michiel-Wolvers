@@ -1,9 +1,12 @@
 # Michiel's portfolio
 One this page I will provide an overview of my Analytics and Data Science related projects which I worked on in my personal time.
 
+# **Voice emotion classifier**
+[Github repo](https://github.com/Dutchmick/sound_emotions) <br/>
+This project implements a Django REST API for predicting emotions from audio files. The API leverages the pre-trained Wav2Vec2 model for feature extraction and a Random Forest classifier for emotion prediction. It supports .wav audio files and classifies emotions from the audio recordings into one of four categories: Happy, Sad, Angry, Calm.
 
 # **Social Data Scientist webscraper**  <br/>
-[Github repo](https://github.com/Dutchmick/social_job_webscraper) *(In progress)* <br/>
+[Github repo](https://github.com/Dutchmick/social_job_webscraper) <br/>
 On LinkedIn, Indeed and other similar aggregator websites its difficult to find relevant social tech jobs and receive alerts. As a result, I need to visit multiple websites to find relevant jobs.
 
 This objective of this project is to speed up my job search by creating a script that extracts relevant jobs from websites I currently use for my job search. The end result is a list of relevant jobs with a weblink for more details and possibility to apply.
@@ -12,7 +15,7 @@ This objective of this project is to speed up my job search by creating a script
 
 # **Customer segmentation & clustering**  <br/>
 [Github repo](https://github.com/Dutchmick/Whereismytransport) <br/>
-WhereIsMyTransport (https://www.whereismytransport.com/) helps people understand mobility in emerging-market megacities. We're trusted by industry leaders like Google, the World Bank, and WSP.
+WhereIsMyTransport helps people understand mobility in emerging-market megacities. We're trusted by industry leaders like Google, the World Bank, and WSP.
 
 For this excersise, WIMT wanted to create meaningful customer segmentations based on their customer's SMS notification behaviour over time. The next step would be to use the customer segmentations and clusters to monitor and increase message open rate through targeted campaigns.
 
