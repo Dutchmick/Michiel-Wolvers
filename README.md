@@ -20,7 +20,7 @@ WhereIsMyTransport helps people understand mobility in emerging-market megacitie
 For this excersise, WIMT wanted to create meaningful customer segmentations based on their customer's SMS notification behaviour over time. The next step would be to use the customer segmentations and clusters to monitor and increase message open rate through targeted campaigns.
 
 
-#**Loan repayment behaviour prediction**  <br/>
+# **Loan repayment behaviour prediction**  <br/>
 [Github repo](https://github.com/Dutchmick/loan_repayment_prediction)** <br/>
 Case study of a prediction model that can be used to evaluate loan repayment behaviour of currently excluded customers of formal financial services. The [Kaggle Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk) was used for this project. Traditional metrics for credit scoring were excluded to create this model (e.g. credit card repayments, previous bank loans).
 
