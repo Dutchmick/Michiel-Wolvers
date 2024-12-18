@@ -21,7 +21,7 @@ For this excersise, WIMT wanted to create meaningful customer segmentations base
 
 
 # **Loan repayment behaviour prediction**  <br/>
-[Github repo](https://github.com/Dutchmick/loan_repayment_prediction)** <br/>
+[Github repo](https://github.com/Dutchmick/loan_repayment_prediction) <br/>
 Case study of a prediction model that can be used to evaluate loan repayment behaviour of currently excluded customers of formal financial services. The [Kaggle Home Credit Dataset](https://www.kaggle.com/c/home-credit-default-risk) was used for this project. Traditional metrics for credit scoring were excluded to create this model (e.g. credit card repayments, previous bank loans).
 
 ### I - Exploratory data analysis
